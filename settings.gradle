@@ -1,0 +1,2 @@
+rootProject.name='Reviever'
+include ':app'

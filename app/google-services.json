@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217080949368",
+    "firebase_url": "https://zaliczenie-b71c9.firebaseio.com",
+    "project_id": "zaliczenie-b71c9",
+    "storage_bucket": "zaliczenie-b71c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217080949368:android:4727d5af952b64821adb8d",
+        "android_client_info": {
+          "package_name": "com.example.reviever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217080949368-t4bovq56r8vj1v0l3ob4lcjs2dtcfllg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4czBDB02au0cg1l29BEUWbowxc6CA7sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217080949368-t4bovq56r8vj1v0l3ob4lcjs2dtcfllg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Main string values-->
+    <string name="app_name">Reviever</string>
+
+    <!-- Toolbar string values -->
+    <string name="enc_button">Encyclopedia</string>
+    <string name="home_button">Home</string>
+    <string name="add_game_button">Add game</string>
+    <string name="reviews_button">Reviews</string>
+    <string name="news_button">News</string>
+
+    <!-- Long string values -->
+    <string name="welcome_part_three">O mnie: bardzo lubię zdawac semestry. \n --> 3(!!) i 7 to moje ulubione cyfry.</string>
+
+    <!-- Snackbars values -->
+    <string name="empty_field">One or more of fields is empty!</string>
+    <string name="success_adding">Successfully added game!</string>
+    <string name="failure_adding">Something went wrong...</string>
+
+    <!-- Dialog values -->
+    <string name="accept">Accept</string>
+
+</resources>
